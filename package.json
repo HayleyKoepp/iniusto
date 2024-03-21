@@ -1,0 +1,21 @@
+{
+  "name": "iniusto",
+  "version": "1.0.0",
+  "description": "Obfuscates a string by replacing some characters with an asterisk.",
+  "main": "index.js",
+  "keywords": [
+    "ad",
+    "string",
+    "sapiente",
+    "ipsum",
+    "hide",
+    "earum"
+  ],
+  "author": "LowellKrajcik",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HayleyKoepp/iniusto.git"
+  },
+  "homepage": "https://github.com/HayleyKoepp/iniusto.git"
+}
